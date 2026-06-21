@@ -121,6 +121,57 @@ https://github.com/projectdiscovery/nuclei
 
 ---
 
+## 🕵️ أقوى أدوات OSINT — استخراج المعلومات الشخصية
+
+### 🥇 soxoj/maigret
+**⭐ 33,469 | 🐍 Python | +3000 موقع**
+
+الأقوى بلا منازع. تجمع ملف كامل عن أي شخص من اسم المستخدم فقط. تفحص +3000 موقع وتُخرج تقرير PDF/TXT/XLSX. فيها واجهة ويب تفاعلية.
+https://github.com/soxoj/maigret
+
+### 🥈 sherlock-project/sherlock
+**⭐ 85,260 | 🐍 Python | +400 موقع**
+
+الأشهر عالمياً. تبحث عن حسابات أي اسم مستخدم عبر مئات الشبكات الاجتماعية.
+https://github.com/sherlock-project/sherlock
+
+### 🥉 qeeqbox/social-analyzer
+**⭐ 23,095 | JavaScript | +1000 موقع**
+
+تحلل ملفات تعريف أي شخص في +1000 منصة. فيها API وواجهة ويب.
+https://github.com/qeeqbox/social-analyzer
+
+### 4. Datalux/Osintgram
+**⭐ 13,230 | 🐍 Python | إنستغرام**
+
+تستخرج إيميل، رقم هاتف، صور، تعليقات، متابعين، مواقع جغرافية من حسابات إنستغرام.
+https://github.com/Datalux/Osintgram
+
+### 5. mxrch/GHunt
+**⭐ 19,109 | 🐍 Python | حسابات قوقل**
+
+تستخرج إيميلات احتياطية، أرقام هواتف، صور، يوتيوب، أجهزة مسجلة من حساب Gmail.
+https://github.com/mxrch/GHunt
+
+### أدوات مكملة
+
+- **megadose/holehe** (⭐11,320) — تدقيق تسجيل الإيميل في المواقع
+  https://github.com/megadose/holehe
+
+- **laramies/theHarvester** (⭐16,555) — حصاد إيميلات، نطاقات، أسماء
+  https://github.com/laramies/theHarvester
+
+- **megadose/ignorant** (⭐1,872) — تدقيق استخدام رقم الهاتف
+  https://github.com/megadose/ignorant
+
+- **twintproject/twint** (⭐16,386) — كشط تويتر بدون API
+  https://github.com/twintproject/twint
+
+- **instaloader/instaloader** (⭐12,604) — تحميل بيانات إنستغرام كاملة
+  https://github.com/instaloader/instaloader
+
+---
+
 ## ⚖️ تنبيه قانوني
 
 جميع الأدوات المذكورة مخصصة للاستخدام القانوني فقط:
