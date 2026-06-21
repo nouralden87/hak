@@ -172,6 +172,58 @@ https://github.com/mxrch/GHunt
 
 ---
 
+## 📂 أدوات OSINT متقدمة — أتمتة وتحليل شامل
+
+### 🥇 smicallef/spiderfoot
+**⭐ 14,000+ | 🐍 Python | +200 مصدر**
+
+أقوى إطار آلي لجمع المعلومات الاستخباراتية. يفحص +200 مصدر تلقائياً: قواعد بيانات عامة، سجلات WHOIS، Shodan، HaveIBeenPwned، سجلات حكومية، بصمات SSL، والمزيد. بواجهة ويب كاملة.
+https://github.com/smicallef/spiderfoot
+
+### 🥈 jofpin/trape
+**⭐ 8,711 | 🐍 Python | تعقب الأشخاص**
+
+أداة متخصصة في تعقب الأشخاص عبر الإنترنت. تجمع: موقع جغرافي، بصمة رقمية، ارتباطات اجتماعية، وتحلل نشاط الشخص.
+https://github.com/jofpin/trape
+
+### 🥉 cipher387/osint_stuff_tool_collection
+**⭐ 8,213 | 📚 | +400 أداة**
+
+موسوعة ضخمة تجمع +400 أداة ويب مجانية لجمع المعلومات — سجلات عامة، قواعد بيانات حكومية، بحث عن أشخاص، سجلات محاكم، والمزيد.
+https://github.com/cipher387/osint_stuff_tool_collection
+
+### 4. lissy93/web-check
+**⭐ 33,814 | TypeScript | تحليل مواقع**
+
+أداة OSINT شاملة لتحليل أي موقع: DNS، SSL، خوادم، تكنولوجيا، ثغرات، شبكات، والمزيد — كل شي في لوحة واحدة.
+https://github.com/lissy93/web-check
+
+### 5. alpkeskin/mosint
+**⭐ 5,892 | 🐍 Go | استخبارات البريد الإلكتروني**
+
+أداة آلية لجمع المعلومات من البريد الإلكتروني — تفحص قواعد بيانات مسربة، شبكات اجتماعية، خدمات متنوعة.
+https://github.com/alpkeskin/mosint
+
+### 6. apurvsinghgautam/robin
+**⭐ 5,544 | 🐍 Python | الويب المظلم**
+
+أداة OSINT مدعومة بالذكاء الاصطناعي لاستكشاف وجمع المعلومات من الويب المظلم (Dark Web).
+https://github.com/apurvsinghgautam/robin
+
+### 7. khast3x/h8mail
+**⭐ 5,056 | 🐍 Python | تسريبات البريد**
+
+أداة بحث في تسريبات البيانات وكلمات السر المرتبطة بالبريد الإلكتروني — محلياً أو عبر خدمات مدفوعة.
+https://github.com/khast3x/h8mail
+
+### 8. ninoseki/mitaka
+**⭐ 1,807 | JavaScript | إضافة متصفح**
+
+إضافة للمتصفح (Chrome/Firefox) تتيح البحث السريع في +70 أداة OSINT مباشرة من أي صفحة ويب.
+https://github.com/ninoseki/mitaka
+
+---
+
 ## ⚖️ تنبيه قانوني
 
 جميع الأدوات المذكورة مخصصة للاستخدام القانوني فقط:
